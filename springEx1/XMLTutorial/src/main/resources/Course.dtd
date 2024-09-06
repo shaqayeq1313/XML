@@ -1,0 +1,5 @@
+<!ELEMENT course (id,title,credits,classroom)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT credits (#PCDATA)>
+<!ELEMENT classroom (#PCDATA)>

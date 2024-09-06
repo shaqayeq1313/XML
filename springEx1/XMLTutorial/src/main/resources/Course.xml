@@ -1,0 +1,7 @@
+<!DOCTYPE course SYSTEM "Course.dtd">
+<course>
+    <id>C101</id>
+        <title>Programming</title>
+        <credits>3</credits>
+        <classroom>117</classroom>
+</course>
